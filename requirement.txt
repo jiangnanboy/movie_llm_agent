@@ -1,0 +1,15 @@
+neo4j-community               3.5.31
+apoc                          3.5.0.15-all
+langchain                     0.1.9
+langchain-cli                 0.0.21
+langchain-community           0.0.24
+langchain-core                0.1.27
+langdetect                    1.0.9
+langserve                     0.0.43
+langsmith                     0.1.9
+Flask                         1.1.2
+Flask                              1.1.2
+flask-siwadoc                      0.2.2
+gevent                             22.8.0
+
+
